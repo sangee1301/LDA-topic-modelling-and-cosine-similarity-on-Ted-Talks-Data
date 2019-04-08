@@ -1,5 +1,3 @@
-setwd("C:/Users/Sangee/Downloads/upwork/James Collin/Task8-Topic Modeling")
-
 library(readr)
 library(tm)
 library(SnowballC)
